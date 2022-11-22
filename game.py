@@ -1,6 +1,8 @@
+#***Игра "Угадай число"*** 
+
 import game as np
-number = np.random.randint(1, 101)
-count = 0
+number = np.random.randint(1, 101) #загадываем число 
+count = 0 #количество попыток
 
 while True:
     count+=1

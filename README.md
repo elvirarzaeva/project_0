@@ -1,13 +1,11 @@
-<<<<<<< HEAD
+
 # My Data Science project 
 From the [SkillFactory Data Science course] (https://skillfactory.ru/data-scientist)
 
 ## Проекты
 
 * [Проект 0. Игра гадай число] (https://github.com/elvirarzaeva/supermassive)
-=======
 # Проект 0. Угадай число
->>>>>>> master
 
 ## Оглавление  
 [1. Описание проекта](.README.md#Описание-проекта)  
@@ -18,11 +16,8 @@ From the [SkillFactory Data Science course] (https://skillfactory.ru/data-scient
 [6. Выводы](.README.md#Выводы) 
 
 ### Описание проекта    
-<<<<<<< HEAD
-Угадать загаданное компьютером число за минимальное число попыток.
-=======
+
 Угадать загаданное компьютером число за минимальное число попыток
->>>>>>> master
 
 :arrow_up:[к оглавлению](_)
 
@@ -47,25 +42,18 @@ From the [SkillFactory Data Science course] (https://skillfactory.ru/data-scient
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
-<<<<<<< HEAD
 ### Этапы работы над проектом  
 ....
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
-=======
->>>>>>> master
 
 
-### Результаты:  
-....
+### Результаты: 
+Алгоритм угадывает число меньше чем за 20 попыток
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
 ### Выводы:  
-<<<<<<< HEAD
-....
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
-=======
->>>>>>> master

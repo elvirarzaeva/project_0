@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 import numpy as np
 number = np.random.randint(1, 101)
 count = 0
+=======
+#***Игра "Угадай число"*** 
+
+import game as np
+number = np.random.randint(1, 101) #загадываем число 
+count = 0 #количество попыток
+>>>>>>> master
 
 while True:
     count+=1
@@ -14,6 +22,10 @@ while True:
         
     else:
         print(f'Вы угадали число!Это число - {number}, за {count} попыток')
+<<<<<<< HEAD
         break #конец игры, завершение цикла
     
     
+=======
+        break #конец игры, завершение цикла
+>>>>>>> master

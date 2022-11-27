@@ -49,7 +49,7 @@ From the [SkillFactory Data Science course] (https://skillfactory.ru/data-scient
 
 
 ### Результаты: 
-Алгоритм угадывает число меньше чем за 20 попыток
+Алгоритм угадывает число меньше чем за 20 попыток  111111111
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
